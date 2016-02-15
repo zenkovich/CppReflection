@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+	<stringParam value="string!" />
+	<floatParam2 value="4.5" />
+	<floatParam value="4.5" />
+	<intParam value="-3" />
+	<bParam value="3.29999995" />
+	<bParamATATA value="3.29999995" />
+	<bParam2 value="3.29999995" />
+</data>

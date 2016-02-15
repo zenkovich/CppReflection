@@ -1,0 +1,12 @@
+C:\work\o2\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.exe.config
+C:\work\o2\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.exe
+C:\work\o2\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.pdb
+C:\work\o2\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.exe
+C:\work\o2\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.pdb
+C:\work\o2\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.csprojResolveAssemblyReference.cache
+C:\work\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.exe.config
+C:\work\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.exe
+C:\work\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.pdb
+C:\work\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.exe
+C:\work\o2CodeTool\o2CodeTool\bin\Release\o2CodeTool.pdb
+C:\work\o2CodeTool\o2CodeTool\obj\Release\o2CodeTool.csprojResolveAssemblyReference.cache
